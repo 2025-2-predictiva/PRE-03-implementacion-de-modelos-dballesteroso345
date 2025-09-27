@@ -42,4 +42,4 @@ class LinearRegression:
         """Predict the target for the provided data."""
         return np.matmul(X, self.coefs_) + self.intercept_
     
-    
+    #problema
